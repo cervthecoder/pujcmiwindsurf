@@ -160,7 +160,7 @@ body p {
   #menu li
   {
     padding: 10px 0;
-    font-size: 22px;
+    font-size: 30px;
   }
 
   #menu a{
@@ -196,7 +196,7 @@ body p {
     border: none;
     text-align: left;
     outline: none;
-    font-size: 20px;
+    font-size: 28px;
   }
   
   /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
@@ -251,6 +251,14 @@ body p {
     .icon2 {
       padding-top: 5%;
       width: 60px;
+    }
+
+    body p {
+      font-size: 28px;
+    }
+
+    body h1 {
+      font-size: 48px;
     }
   
   }
