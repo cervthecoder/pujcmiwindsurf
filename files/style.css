@@ -264,5 +264,11 @@ body p {
     #menu li {
       font-size: 40px;
     }
+
+    #menuToggle span {
+      width: 66px;
+      height: 8px;
+      transform-origin: 16px 0px;
+    }
   
   }
