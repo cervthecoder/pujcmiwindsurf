@@ -244,13 +244,8 @@ body p {
       max-width: 80%;
     }
 
-    .icon1 {
-      width: 70px;
-    }
-
     .icon2 {
       padding-top: 5%;
-      width: 60px;
     }
 
     body p {
@@ -259,6 +254,15 @@ body p {
 
     body h1 {
       font-size: 48px;
+    }
+
+    #menu {
+      width: 100%;
+      text-align: center;
+    }
+
+    #menu li {
+      font-size: 40px;
     }
   
   }
